@@ -1,0 +1,24 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["Z5GZDZZ4KP.com.johnphilliplee.NavigationTabDemo"],
+        "components": [
+          {
+            "/": "/fruit/*",
+            "comment": "Match any fruit deep link"
+          },
+          {
+            "/": "/veggie/*",
+            "comment": "Match any veggie deep link"
+          },
+          {
+            "/": "/settings/*",
+            "comment": "Match any settings deep link"
+          }
+        ]
+      }
+    ]
+  }
+}
